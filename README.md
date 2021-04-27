@@ -2,7 +2,8 @@
 
 </br>
 
-<h1>Jainam Shah</h1>
+## Jainam Shah
+
 <h3>1911120</h3>
 <h3>B4</h3>
 
@@ -10,7 +11,8 @@
 </br>
 </br>
 
-<h1>Peeya Thacker</h1>
+## Peeya Thacker
+
 <h3>1911127</h3>
 <h3>B4</h3>
 
