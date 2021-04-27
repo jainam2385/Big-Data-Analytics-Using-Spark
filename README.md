@@ -4,20 +4,18 @@
 
 ## Jainam Shah
 
-<h3>1911120</h3>
-<h3>B4</h3>
+### 1911120
 
-</br>
-</br>
+### B4
+
 </br>
 
 ## Peeya Thacker
 
-<h3>1911127</h3>
-<h3>B4</h3>
+### 1911127
 
-</br>
-</br>
+### B4
+
 </br>
 
 ## What is spark?
