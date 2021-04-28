@@ -27,21 +27,21 @@
 
 ## What is spark?
 
-<h3>Spark is a unified analytics engine for large-scale data processing. It provides high-level APIs in Scala, Java, Python, and R, and an optimized engine that supports general computation graphs for data analysis. It also supports a rich set of higher-level tools including Spark SQL for SQL and DataFrames, MLlib for machine learning, GraphX for graph processing, and Structured Streaming for stream processing.</h3>
+-   Spark is a unified analytics engine for large-scale data processing.
+-   It provides high-level APIs in Scala, Java, Python, and R, and an optimized engine that supports general computation graphs for data analysis.
+-   It also supports a rich set of higher-level tools including Spark SQL for SQL and DataFrames, MLlib for machine learning, GraphX for graph processing, and Structured Streaming for stream processing.
 
 </br>
 </br>
 
 ## How to install Apache Spark on Windows 10?
 
-</br>
+-   ## Prerequisites
 
-## Prerequisites
-
--   A system running Windows 10
--   A user account with administrator privileges (required to install software, modify file permissions, and modify system PATH)
--   Command Prompt or Powershell
--   A tool to extract .tar files, such as 7-Zip
+    -   A system running Windows 10
+    -   A user account with administrator privileges (required to install software, modify file permissions, and modify system PATH)
+    -   Command Prompt or Powershell
+    -   A tool to extract .tar files, such as 7-Zip
 
 </br>
 </br>
@@ -115,3 +115,19 @@
     </br>
 
 -   Python: Python is a programming language that lets you work more quickly and integrate your systems more effectively.
+
+</br>
+</br>
+</br>
+
+## Tools and Technologies used
+
+</br>
+
+<img height="50" src="images\Apache_Spark_logo.svg.png">
+
+<img height="50" src="images\pyspark.png">
+
+<img height="50" src="images\python.jpg">
+
+<img height="50" src="images\jupyter_notebook.png">
