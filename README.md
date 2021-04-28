@@ -1,26 +1,33 @@
-# Big-Data-Analytics-Using-Spark
+<h1 align="center">Big-Data-Analytics-Using-Spark</h1>
+
+<img src="https://img.shields.io/badge/Made%20with-Spark-1f425f.svg"/>
+
+<img src="https://img.shields.io/badge/Made%20with-Python-1f425f.svg"/>
+
+</br>
+</br>
+</br>
+
+<h1>Project By</h1>
+
+| <h3>Jainam Shah</h3> | <h3>Peeya Thacker</h3> |
+| -------------------- | ---------------------- |
+| <h3>1911120 </h3>    | <h3>1911127</h3>       |
+| <h3>B4</h3>          | <h3>B4</h3>            |
 
 </br>
 
-## Jainam Shah
+<h1>Faculty</h1>
 
-### 1911120
-
-### B4
+| <h3>Prof. Pradnya Bhangale</h3> | <h3>Prof. Vaibhav Vasani</h3> |
+| ------------------------------- | ----------------------------- |
 
 </br>
-
-## Peeya Thacker
-
-### 1911127
-
-### B4
-
 </br>
 
 ## What is spark?
 
-### Spark is a unified analytics engine for large-scale data processing. It provides high-level APIs in Scala, Java, Python, and R, and an optimized engine that supports general computation graphs for data analysis. It also supports a rich set of higher-level tools including Spark SQL for SQL and DataFrames, MLlib for machine learning, GraphX for graph processing, and Structured Streaming for stream processing.
+<h3>Spark is a unified analytics engine for large-scale data processing. It provides high-level APIs in Scala, Java, Python, and R, and an optimized engine that supports general computation graphs for data analysis. It also supports a rich set of higher-level tools including Spark SQL for SQL and DataFrames, MLlib for machine learning, GraphX for graph processing, and Structured Streaming for stream processing.</h3>
 
 </br>
 </br>
@@ -43,28 +50,54 @@
 
 -   Installing Apache Spark on Windows 10 may seem complicated to novice users, but this simple tutorial will have you up and running.
 -   If you already have Java 8 and Python 3 installed, you can skip the first two steps.
-    </br>
-    </br>
+
+</br>
+</br>
 
 ### Step 1: Install Java 8
 
--   `java -v`
-    </br>
-    </br>
+-   Open Browser and navigate to https://www.java.com/download/ie_manual.jsp.
+-   Download the latest stable version.
+-   Add it to the environment variable.
+
+</br>
+</br>
 
 ### Step 2: Install Python
 
--   `python –-version`
-    </br>
-    </br>
+-   Open Browser and navigate to https://www.python.org/downloads/.
+-   Download the latest stable version.
+-   Add it to the environment variable.
+
+</br> 
+</br>
 
 ### Step 3: Download Apache Spark
 
 -   Open a browser and navigate to https://spark.apache.org/downloads.html.
 -   Under the Download Apache Spark heading, there are two drop-down menus. Use the current non-preview version.
 
+</br>
+</br>
+
+## Running the project
+
+</br>
+
+-   Make sure Java, Python and Spark are installed correctly by running the following command.
+
+    -   `python --version`
+    -   `java --version`
+    -   `pyspark --version`
+
+-   Open the terminal/command prompt.
+-   Clone the repository.
     </br>
-    </br>
+    -   `https://github.com/jainam2385/Big-Data-Analytics-Using-Spark`
+-   Next open jupyter notebook and run each cell.
+
+</br>
+</br>
 
 ## Included components:
 
