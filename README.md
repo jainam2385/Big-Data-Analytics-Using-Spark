@@ -124,6 +124,7 @@
 
 </br>
 
+<p>
 <img height="50" src="images\Apache_Spark_logo.svg.png">
 
 <img height="50" src="images\pyspark.png">
@@ -131,3 +132,4 @@
 <img height="50" src="images\python.jpg">
 
 <img height="50" src="images\jupyter_notebook.png">
+</p>
