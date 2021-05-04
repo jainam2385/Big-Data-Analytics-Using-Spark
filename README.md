@@ -14,9 +14,12 @@
 | -------------------- | ---------------------- |
 | <h3>1911120 </h3>    | <h3>1911127</h3>       |
 | <h3>B4</h3>          | <h3>B4</h3>            |
+
 </br>
 
-<h1>College: K.J Somaiya College Of Engineering, Vidhyavihar</h1>
+<h1>College</h1>
+<h3>K.J Somaiya College Of Engineering, Vidhyavihar</h3>
+
 
 </br>
 
